@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jl-morenocid&label=Profile%20views&color=0e75b6&style=flat" alt="jl-morenocid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jl-morenocid" alt="jl-morenocid" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://blueclouds.es/resumes/jmc/](https://blueclouds.es/resumes/jmc/)
 
 - 📝 I regularly write articles on [[WIP]]([WIP])
